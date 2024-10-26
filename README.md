@@ -1,16 +1,19 @@
-# trimly
+# Trimly App
 
-A new Flutter project.
+This is the repository for mobile app version of Trimly , made with Flutter. 
+Target platforms : 
+- Android
+- iOS
 
-## Getting Started
+## Setup Instructions 
 
-This project is a starting point for a Flutter application.
+*This setup assumes you already have Flutter (Android & iOS) environment setup complete at your machine*
 
-A few resources to get you started if this is your first Flutter project:
+After cloning the repository, run the following commands in order :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. To install all the dependency packages :
+    - `flutter pub get`
+2. To run the project :
+    -  `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project can run on both physical device and emulator environment.
